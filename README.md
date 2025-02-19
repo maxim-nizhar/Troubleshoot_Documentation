@@ -1,5 +1,7 @@
 # Developer Troubleshooting Guides
 
+![Repository Overview](media/dev_repo.jpg)
+
 This repository is a collection of the challenges and problems encountered over my career as a developer, along with the solutions discovered to overcome them. It also houses detailed notes from tutorials that have captured my interest and a set of Anki cards designed to reinforce key concepts, best practices, and troubleshooting techniques.
 
 ## Contents
