@@ -1,4 +1,4 @@
-# Developer Troubleshooting Guides
+# Troubleshooting Guides
 
 ![Repository Overview](media/dev_repo.jpg)
 
