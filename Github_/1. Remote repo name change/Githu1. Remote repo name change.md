@@ -46,6 +46,7 @@ origin  git@github.com:maxim-nizhar/CoFoundry.git (fetch)
 
 origin  git@github.com:maxim-nizhar/CoFoundry.git (push)
 
+---------------
 
 Subsequent troubleshooting steps were as follows:
 
